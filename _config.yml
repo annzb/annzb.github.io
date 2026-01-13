@@ -1,0 +1,13 @@
+title: "Anna Zavei-Boroda"
+# description: "Short tagline"
+url: "https://annzb.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "air"
+markdown: kramdown
+permalink: /:categories/:title/
